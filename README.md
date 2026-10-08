@@ -1,0 +1,2 @@
+# DocuMind-AI-Smart-Document-Analysis-Data-Toolkit
+DocuMind AI is an AI-powered Streamlit application that allows users to upload documents, extract text using PDF processing and OCR, generate AI-based summaries, ask questions about their files, and sort student records. It uses Hugging Face Transformers, PyPDF2, PyMuPDF, Tesseract OCR, and Python to simplify document analysis and data organization
