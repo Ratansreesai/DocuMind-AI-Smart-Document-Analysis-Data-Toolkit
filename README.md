@@ -49,9 +49,13 @@ to answer natural-language questions based on the uploaded document.
 DocuMind-AI/
 │
 ├── app.py
-├── 1_Upload_File.py
-├── 2_AI_Analysis.py
-├── 3_Ask_AI.py
-├── 4_sort_(updated)data.py
+│
+├── pages/
+│   ├── 1_Upload_File.py
+│   ├── 2_AI_Analysis.py
+│   ├── 3_Ask_AI.py
+│   └── 4_sort_(updated)data.py
+│
 ├── requirements.txt
+├── REPORT.md
 └── README.md
